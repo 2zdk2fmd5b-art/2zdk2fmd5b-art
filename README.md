@@ -35,9 +35,11 @@ AI로 만든 이미지에 움직임과 음악을 더하고, 하나의 영상으�
 
 #### 작품 영상
 
-[▶ 〈화색연가〉 영상 보기 및 다운로드](https://github.com/2zdk2fmd5b-art/2zdk2fmd5b-art/releases/tag/hwasaekyeonga-v1)
+[〈화색연가〉 원본 영상 다운로드 · MP4, 약 131MB](https://github.com/2zdk2fmd5b-art/2zdk2fmd5b-art/releases/download/hwasaekyeonga-v1/hwasaekyeonga.mp4)
 
-링크를 열고 **Assets**의 **hwasaekyeonga.mp4**를 선택하면 원본 영상을 내려받아 감상할 수 있습니다.
+원본 파일을 내려받은 뒤 기기의 동영상 플레이어로 감상해 주세요. 위 링크는 다운로드용이며, 링크를 열자마자 웹에서 재생되는 스트리밍 주소는 아닙니다. 기기와 브라우저에 따라 파일을 여는 방식이 다를 수 있습니다.
+
+직접 다운로드가 어려우면 [작품 영상 Release 페이지](https://github.com/2zdk2fmd5b-art/2zdk2fmd5b-art/releases/tag/hwasaekyeonga-v1)를 열고 **Assets → hwasaekyeonga.mp4**를 선택해 주세요. **Source code (zip/tar.gz)**는 작품 영상이 아닙니다.
 
 #### 내가 맡은 역할
 
